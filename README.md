@@ -49,7 +49,8 @@ endmodule
 ```
 
 ### Output:
-![324466592-f0d80304-e1a3-4a06-85b0-12fdd36a0350](https://github.com/Subash190/VLSI-LAB-EXP-3/assets/162429716/a7880186-1a05-4b3c-97bf-86d59237d843)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-3/assets/165645979/05f625c3-a838-4196-9dff-69931ee672f8)
+
 
 
 ## 4 Bit Multiplier:
@@ -99,8 +100,8 @@ endmodule
 ```
 
 ### Output:
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-3/assets/165645979/93af2156-0741-48d7-8538-001661a4d2aa)
 
-![322197114-e90c1dc4-1d2e-442a-a1a5-0f4d1d907c55](https://github.com/Subash190/VLSI-LAB-EXP-3/assets/162429716/1e3bcaa2-5596-4492-a3ea-788063563f2d)
 
 
 
